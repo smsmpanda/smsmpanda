@@ -1,13 +1,13 @@
-## About me
+### About me
  - C#/Go/JavaScript enthusiasts
  - Five and a half years of background development experience
  - Currently, I am working on projects related to Internet of things
 
-## Personal Quotes
+### Personal Quotes
 💪  要敬畏，更要有匠心精神!
 
-## Favorite
+### Favorite
 Like swimming, basketball, LOL
 
-## Contract me
+### Contract me
 jiangrui5799@163.com
